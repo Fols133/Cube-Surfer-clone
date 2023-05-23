@@ -9,4 +9,5 @@
 ![DeadPanel](/DeadPanel.png)
 
 ## <br> 🎮  Gameplay video:
-[![Gameplay](https://img.youtube.com/vi/dZobErQlJsc/hqdefault.jpg)](https://youtube.com/shorts/dZobErQlJsc)
+[Gameplay](https://github.com/Fols133/Cube-Surfer-clone/assets/86738459/ef72e15f-832b-4547-8bf2-1abfefc0be4d)
+
